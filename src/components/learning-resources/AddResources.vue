@@ -95,8 +95,8 @@ textarea {
 input:focus,
 textarea:focus {
   outline: none;
-  border-color: #3a0061;
-  background-color: #f7ebff;
+  border-color: #386641;
+  background-color: #efe;
 }
 
 .form-control {
