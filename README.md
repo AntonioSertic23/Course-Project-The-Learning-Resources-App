@@ -32,7 +32,7 @@ This repository contains the project "The Learning Resources App" developed as p
 
 The project follows a structured organization:
 
-- `app.js`: The main JavaScript file containing the Vue.js application.
+- `app.vue`: The main Vue component containing the root of the application.
 - `components`: A directory containing reusable Vue components used in the app.
 
 ## Credits
